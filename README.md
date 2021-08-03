@@ -1,2 +1,2 @@
 # todo-list-console
-Simple console todo-List program made with JavaScript
+Simple console todo-list program made with JavaScript
